@@ -1,5 +1,3 @@
-# README.md
-
 # XBorder Due Diligence Directory (X3D) V1.0.
 
 ## Purpose & Scope
