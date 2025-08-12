@@ -117,7 +117,7 @@ Choose (1-5): 5
 ---
 
 ## Closing Notes
-X3D is a fantasy application developed as part of a Python fundamentals capstone project for Module 1 of the Purwadhika JC Data Science Program. It is designed to simulate a realistic yet simplified business tool. The chosen use case — a compliance operations directory for cross-border payment services — draws directly from my professional experience in fintech and compliance operations, making it both relevant and familiar to implement.
+X3D is a fantasy application developed as part of a Python fundamentals capstone project for Module 1 of the Purwadhika JC Data Science Program. It is designed to simulate a realistic yet simplified business tool. The chosen use case — a riak and compliance operations directory for cross-border payment services — draws directly from my professional experience in fintech and compliance operations, making it both relevant and familiar to implement.
 
 While intentionally limited in scope, the project showcases core programming concepts such as CRUD operations, menu-driven navigation, and basic input validation.
 
