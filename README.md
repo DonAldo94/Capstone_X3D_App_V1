@@ -10,7 +10,7 @@ The application enables users to:
 - Manually input due diligence results or records (no automation)
 - Navigate through the main and sub-menus
 
-Note: ***Transaction monitoring*** is outside the project’s scope. This means there is no handling of transaction amounts, sender/beneficiary details, originating countries, screening results, or similar transaction-level data.
+Note: ***Transaction monitoring*** is outside the project’s scope. This means there is no handling of transaction amounts, sender/beneficiary details, originating countries, screening results, or other granular transaction-level data.
 
 ---
 
