@@ -6,7 +6,7 @@
 # Not including transaction monitoring, no amounts, no sender/beneficiary details.
 
 ###### It allows users to:
-# Create new customer records....Manual Input...for now...but we'll improve in the next iteration
+# Create new customer records....Manual Input...But we'll improve in the next iteration
 # View all customers or a specific customer by Business ID
 # Update a customer's fields
 # Delete a customer by Business ID
@@ -16,7 +16,7 @@
 # One unique key: business_id ----> Main identifier
 # Basic functions for each main feature: create/read/update/delete
 # Basic input prompts and validation (e.g., unique Business ID check)
-# Main Menu -> Submenus (Read / Create / Update / Delete) -> Exit....That's it! What more do you expect? It's a newbie python app HAHA
+# Main Menu -> Submenus (Read / Create / Update / Delete) -> Exit....Exit....That's it! For now at least :)
 
 ###### Program Flow (high level)
 # Main Menu
